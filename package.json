@@ -1,5 +1,6 @@
 {
   "name": "bse",
+  "homepage": "https://cooksen.github.io/bse/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
